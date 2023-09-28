@@ -15,7 +15,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@omriruvio/remote-federated-app-test": "^0.0.2",
+    "@omriruvio/remote-federated-app-test": "^0.0.5",
     "@originjs/vite-plugin-federation": "1.2.3",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",

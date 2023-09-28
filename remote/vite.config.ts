@@ -15,6 +15,7 @@ export default defineConfig({
       exposes: {
         './Button': './src/components/Button',
         './UserList': './src/components/UserList',
+        './TimeDisplay': './src/components/TimeDisplay',
       },
       shared: ['react', 'react-dom']
     })

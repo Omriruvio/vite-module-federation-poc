@@ -1,10 +1,10 @@
 {
   "name": "@omriruvio/remote-federated-app-test",
-  "types": "dist/components/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "dist/**/*.d.ts"
   ],
-  "version": "0.0.2",
+  "version": "0.0.5",
   "type": "module",
   "scripts": {
     "dev": "vite --port 5001 --strictPort",
